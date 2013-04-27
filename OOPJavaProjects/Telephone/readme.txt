@@ -1,5 +1,5 @@
 These files solve the exercise from the book "Introduction To Programing with Java" by Svetlin Nakov
-You can file a picture of Class diagram and TelephoneClassDiagram.ucls file which can be opened
+You can find a picture of Class diagram and TelephoneClassDiagram.ucls file which can be opened
 with "ObjectAid UML Exlorer" plug in for eclipce.
 
 The task:
